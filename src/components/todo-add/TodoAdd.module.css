@@ -1,0 +1,18 @@
+.inputContainer {
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.inputTitle {
+    margin-bottom: 10px;
+}
+
+.input {
+    width: 100%;
+    border: 0;
+    border-bottom: 1px solid gray;
+}
+
+.addButton {
+    padding: 10px 40px
+}
